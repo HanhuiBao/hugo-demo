@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = true
 title = "Hanhui Bao"
-subtitle = "Welcome, I'm a Ph.D. student at University of Tennessee, Knoxville!"
+subtitle = "Welcome, I'm an incoming Ph.D. student at University of Tennessee, Knoxville!"
 imageUrl = "hugo-demo.jpeg"
 imageTitle = "Hanhui Bao"
 imageWidth = 300
