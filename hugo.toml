@@ -1,4 +1,4 @@
-baseURL = 'http://hanhuibao.com/'
+baseURL = 'http://hanhuibao.netlify.app/'
 languageCode = 'en-us'
 title = 'Hanhui Bao'
 theme = 'PaperMod'
