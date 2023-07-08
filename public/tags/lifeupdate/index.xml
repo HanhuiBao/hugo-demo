@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LifeUpdate on Hanhui Bao</title>
+    <link>http://hanhuibao.com/tags/lifeupdate/</link>
+    <description>Recent content in LifeUpdate on Hanhui Bao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2023 09:03:20 -0800</lastBuildDate><atom:link href="http://hanhuibao.com/tags/lifeupdate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master Wrap Up</title>
+      <link>http://hanhuibao.com/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Jul 2023 09:03:20 -0800</pubDate>
+      
+      <guid>http://hanhuibao.com/posts/my-first-post/</guid>
+      <description>Recently I&amp;rsquo;m wrapping up my master&amp;rsquo;s program. I was totally swamped these weeks. Assignments, getting started my PhD program, current projects, and other stuff. Ah, I&amp;rsquo;m like a working machine jumping between things! But fortunatley, I survived, and I&amp;rsquo;m much more relaxed right now. Two weeks from now, I will graduate from Johns Hopkins University, and start my new journey as a doctorate student. I can&amp;rsquo;t even imagine!</description>
+    </item>
+    
+  </channel>
+</rss>
