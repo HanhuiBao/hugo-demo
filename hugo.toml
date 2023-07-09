@@ -3,23 +3,23 @@ languageCode = 'en-us'
 title = 'Hanhui Bao'
 theme = 'PaperMod'
 
-[params.profileMode]
+[params.ProfileMode]
 enabled = true
 title = "Hanhui Bao"
-subtitle = "Welcome, I'm an incoming Ph.D. student at University of Tennessee, Knoxville!"
-imageUrl = "hugo-demo.jpeg"
+subtitle = "Welcome, I'm an incoming Ph.D. student at the University of Tennessee, Knoxville!"
+imageUrl = "images/headshot.jpeg"
 imageTitle = "Hanhui Bao"
 imageWidth = 300
-imageHeight = 400
+imageHeight = 250
 
 [menu]
 [[menu.main]]
   name = 'Home'
-  pageRef = '/'
+  pageRef = '/Home'
   weight = 10
 [[menu.main]]
-  name = 'Posts'
-  pageRef = '/Posts'
+  name = 'Blog'
+  pageRef = '/Blog'
   weight = 50
 [[menu.main]]
   name = 'CV'
