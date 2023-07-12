@@ -2,7 +2,7 @@
 title: "Graduation Photoshoot"
 date: 2023-07-12T09:03:20-08:00
 draft: false
-tags: ["Master", "LifeUpdate", "July"]
+tags: ["Master", "LifeUpdate", "2023-July"]
 categories: ["post"]
 ---
 
