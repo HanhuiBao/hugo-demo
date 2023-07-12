@@ -10,7 +10,7 @@ I shot my graduation photos with couple of friends yesterday, and it was so much
 
 Shooting graduation photos gives me a real feeling that I'll graduate from Johns Hopkins really soon. Before that, I didn't really realize that I'll graduate next Thursday. But yesterday I just felt that it is happening and I'm so ready to say goodbye. 
 
-By the way, I love my friends here at JHU, they took really photos!
+By the way, I love my friends here at JHU, they took really GOOD photos!
 
 
 ![][photo1]
