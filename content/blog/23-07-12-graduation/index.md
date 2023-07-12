@@ -13,7 +13,16 @@ Shooting graduation photos gives me a real feeling that I'll graduate from Johns
 By the way, I love my friends here at JHU, they took really photos!
 
 
-![][def]
+![][photo1]
 
-[def]: images/1.jpg
+[photo1]: images/1.jpg
+
+![][photo2]
+
+[photo2]: images/123.jpg
+
+
+![][photo3]
+
+[photo3]: images/3.jpg
 
