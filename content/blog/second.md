@@ -2,7 +2,7 @@
 title: "Setting up website"
 date: 2023-07-06T09:03:20-08:00
 draft: false
-tags: [LifeUpdate"]
+tags: [LifeUpdate", "July"]
 categories: ["posts"]
 ---
 

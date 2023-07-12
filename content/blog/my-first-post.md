@@ -2,7 +2,7 @@
 title: "Master Wrap Up"
 date: 2023-07-04T09:03:20-08:00
 draft: false
-tags: ["Master", "LifeUpdate"]
+tags: ["Master", "LifeUpdate", "July"]
 categories: ["post"]
 ---
 
