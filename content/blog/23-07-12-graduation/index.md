@@ -6,7 +6,7 @@ tags: ["Master", "LifeUpdate", "July"]
 categories: ["post"]
 ---
 
-I shot my graduation photos with couple of friends yesterday, and it was so much fun! There were 6 of us and only one set of used cap and gown because we graduated in summer and graduation usually happens in spring. However, it only made us happy instead of sad about ourselves LOL. 
+I shot my graduation photos with couple of friends yesterday, and it was so much fun! There were 6 of us and only one set of used cap and gown because we graduate in summer and graduation usually happens in spring. However, it only made us happy instead of sad about ourselves LOL. 
 
 Shooting graduation photos gives me a real feeling that I'll graduate from Johns Hopkins really soon. Before that, I didn't really realize that I'll graduate next Thursday. But yesterday I just felt that it is happening and I'm so ready to say goodbye. 
 
