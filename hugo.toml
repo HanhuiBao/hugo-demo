@@ -20,15 +20,12 @@ imageHeight = 250
 [[menu.main]]
   name = 'Blog'
   pageRef = '/Blog'
-  weight = 50
+  weight = 40
 [[menu.main]]
   name = 'CV'
   pageRef = '/CV'
-  weight = 40
+  weight = 30
   url = "CV.pdf"
-[[menu.main]]
-  name = 'Publications'
-  pageRef = '/publications.html'
   weight = 30
 [[menu.main]]
   name = 'About'
