@@ -2,6 +2,7 @@ baseURL = 'http://hanhuibao.com/'
 languageCode = 'en-us'
 title = 'Hanhui Bao'
 theme = 'PaperMod'
+preserveTaxonomyNames = true
 
 [params.ProfileMode]
 enabled = true
@@ -12,6 +13,12 @@ imageTitle = "Hanhui Bao"
 imageWidth = 300
 imageHeight = 250
 
+
+[taxonomies]
+  themes = 'themes'
+  tags = 'tags'
+
+
 [menu]
 [[menu.main]]
   name = 'Home'
@@ -21,6 +28,10 @@ imageHeight = 250
   name = 'Blog'
   pageRef = '/Blog'
   weight = 40
+[[menu.main]]
+  name = 'Blog Categories'
+  pageRef = '/tags'
+  weight = 50 
 [[menu.main]]
   name = 'CV'
   pageRef = '/CV'

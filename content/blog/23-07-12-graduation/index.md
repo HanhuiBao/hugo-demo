@@ -1,9 +1,9 @@
 ---
 title: "Graduation Photoshoot"
 date: 2023-07-12T09:03:20-08:00
+slug: graduationphotoshoot
 draft: false
-tags: ["Master", "LifeUpdate", "2023-July"]
-categories: ["post"]
+tags: ["Master", "2023July"]
 ---
 
 I shot my graduation photos with couple of friends yesterday, and it was so much fun! There were 6 of us and only one set of used cap and gown because we graduate in summer and graduation usually happens in spring. However, it only made us happy instead of sad about ourselves LOL. 
