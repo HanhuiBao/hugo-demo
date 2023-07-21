@@ -1,5 +1,5 @@
 ---
-title: "Setting up website"
+title: "Setting Up This Website"
 date: 2023-07-06T09:03:20-08:00
 slug: settingupwebsite
 draft: false
