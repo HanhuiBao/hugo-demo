@@ -19,4 +19,4 @@ I met lots of people in this year. Some become my close friends, some surprised 
 Honestly, I don't know how to close this post. I feel that I still have thousands of words to say, but silence is better. It's hard to believe that one year can change a person so much, but it it true. The U.S. is not perfect, but it gives me a place to express, perform, and grow. I feel being respected and encouraged here. It's the very first time that I realize my thoughts and words matter. I will help other people as I have been so fortunate to be supported. 
 
 ---
-Thanks to Dr. Pape, Ms. G, Rachael, Ms. & Dr. Cooney, Dr. Jiarong Liang, and everyone who supported me along the way. It's your love and encouragement make me the person I am today. 
+Thanks to Dr. Pape, Ms. G, Rachael, Ms. & Dr. Cooney, Dr. Jiarong Liang, and everyone who supported me all the time. It's your love and encouragement make me the person I am today. 
