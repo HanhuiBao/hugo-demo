@@ -8,7 +8,7 @@ tags: [ "2023Aug", "random"]
 
 Learning how to drive is absolutely a torture for me, I'm not kidding. Even in this relatively empty country, and I have the best driving instructor -- my roommate, I still feel horrible. 
 
-Knowledge test is ok, I prepared for weeks and took hundreds of mock tests, so I passed at once. A small episode is that, I was no sure if it's because I have not changed my glasses for a while, I could not see clearly with my left eye when I was doing the vision test. I was so nervous and I was literally sweating, and the officer kindly said "take your time, relax, you get this". Luckily I passed and got my permit.
+Knowledge test is ok, I prepared for weeks and took hundreds of mock tests, so I passed at once. A small episode is that, I was no sure if it was because I have not changed my glasses for a while, I could not see clearly with my left eye when I was doing the vision test. I was so nervous and I was literally sweating, and the officer kindly said "take your time, relax, you get this". Luckily I passed and got my permit.
 
 These weeks I've been practicing driving under my roommate's instruction. I'm not gonna lie but she's just the BEST driving teacher in this world. If you live in Knox and need a driver coach, contact me. She is SUPER patient and gentle, even though I am aware she is probably more nervous than me. I mean, her life is in my hand! At first I didn't know how to step on the brake gently, so I stepped to the bottom. We, especially she, were shocked at that time. Now I know how to gradually brake, good news. 
 

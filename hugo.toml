@@ -7,7 +7,7 @@ preserveTaxonomyNames = true
 [params.ProfileMode]
 enabled = true
 title = "Hanhui Bao"
-subtitle = "Welcome, I'm an incoming Ph.D. student at the University of Tennessee, Knoxville!"
+subtitle = "Welcome, I'm a Ph.D. student at the University of Tennessee, Knoxville!"
 imageUrl = "images/headshot.jpeg"
 imageTitle = "Hanhui Bao"
 imageWidth = 300
