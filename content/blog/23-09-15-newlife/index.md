@@ -1,0 +1,19 @@
+---
+title: "My New Life as a PhD Student"
+date: 2023-09-14T09:03:20-08:00
+slug: newlife
+draft: false
+tags: [ "2023Sep", "PhD"]
+---
+
+It's been over a month since I started a new chapter as a PhD student. I have imagined this for a long time, but it turned out different, in a good way, generally. 
+
+Let's get started with bad ones. One thing is that I overestimated the quality of a doc student's life. That means I thought my life would be easier, in terms of budget. Well, the good news is I'm basically independent, and my stipend is relatively high even across the campus. But the bad news is it's still below the number required for a comfortable living, and I'm not materialistic at all. Some people may say you'll way higher salary when you finish your PhD. It makes sense at some level, but 1) there's no commitment for this; 2) you can also get promoted with 4-5 years of experience; 3) doc student life is obviously under pressure. Let's just focus on the positive side, at least I'm financially independent, thanks to the (relatively) affordable living cost in TN (stop increasing!), my generous PIs and my department. 
+
+The biggest challenge might be the pressure of being creative. Being a PhD not only requires research skills, but maybe more importantly, (new) ideas. If you can't think of one thing that is entirely "you", that's not ideal for a (senior) doc student. I don't recognize myself as "creative", like at all. Am I organized? Am I hard-working? Am I interesting? Yes! But creative, not sure. Thinking outside the box is not easy, especially when I listened to bunch of senior students sharing their projects, I felt anxious. Even though my advisor told me that she'll help me get there, but I still can't let it go. 
+
+Okay, let's talk about something relaxing. The very first awesome thing about being a doc student is meeting people. I'm not just saying, I mean it. Meeting people with overlapping interests and critical thinking is so amazing. I always get excited when there is some spark of inspiration in a conversation. Lots of people say you will not meet true friends after high school, but friends are categorizable. Some people you can share anything intimate, and some people you can share any new ideas. Your close friends may not understand what you are doing, and they don't have to. Friends in working occasions possibly understand what you are doing more than what you are personally experiencing. Both groups support me in different ways. 
+
+Another is being supported. It may sound natural, every doc student has advisors. But my point is I don't take it for granted. Not every doc student gets (enough) support from their advisors, either academically, financially, or mentally. But I do, and I am always grateful for that. As someone who (so far) wants to stay in academia in the long run, getting the right guidance of research is more than important. My adivisors, Josh R. and Rachel W., are both brilliant, hard-working, passionate, and patient scholars, which positively influences me so much as a newbie. They are part of the reason why I want to stay in academia. I also received support from my peers. All the people I have met so far are always ready to help, and it encourages me to speak out my needs. Of course, I do the same, too. The environment within my group so far is super positive, and it changed me so much since day one. I, of course, also get support from other people, too. Like my roommate, who taught me how to drive and helped with some installation work since I'm so weak. Also Boba and Babo, her two cats, always make my day every morning with their adorable meow (for hunger). Also my parent and family, like they always do, and I love them.   
+
+So, in short, I'm off to a good start. The biggest thing is that, I'll be back home this winter! The flights are obviously expensive, but it's on budget and there is nothing more important than reuniting with my family and friends. 
