@@ -34,9 +34,9 @@ imageHeight = 250
   weight = 50 
 [[menu.main]]
   name = 'CV'
-  pageRef = '/Bao_CV'
+  pageRef = '/CV'
   weight = 30
-  url = "CV.pdf"
+  url = "Bao_CV.pdf"
 [[menu.main]]
   name = 'About'
   pageRef = '/aboutme.html'
