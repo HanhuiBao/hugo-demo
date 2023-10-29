@@ -1,5 +1,5 @@
 ---
-title: "Data, Kill Me or EMPower Me"
+title: "Data, Kill Me or Empower Me"
 date: 2023-10-29T09:03:20-08:00
 slug: data
 draft: false
