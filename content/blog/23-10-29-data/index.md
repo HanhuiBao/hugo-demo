@@ -1,0 +1,15 @@
+---
+title: "Data, Kill Me or EMPower Me"
+date: 2023-10-29T09:03:20-08:00
+slug: data
+draft: false
+tags: [ "2023Oct", "PhD"]
+---
+
+I have been worried about my data analysis and Stats skills since I started graduate school. Numbers were away from me after high school, which means that I didn't do one second of math during my whole undergraduate. However, as someone who decided to jump into acadmeia in social science and choose the quant path, data skills are necessary. Unfortunately my master's program didn't provide data analysis courses either (because it didn't require such skills), so I got to learn by myself. I took an online course to acquire some basic R studio skills, but I lacked the opportunities to get feedback because of the feature of the course. In addition, I watched some videos about Stats from YouTube, but still, I didn't construct a system. 
+
+After I started my PhD program, the anxiety became stronger than ever. It is really difficult for me to understand the "data analysis" and "result" sections of a paper, which is deadly for a doctoral level student. Even though I am taking one R class this semester, it is still not enough. This R class mainly teaches me how to use R studio as a tool to analyze data, but it does not focus on what's the meaning behind the result. I started to watch data-related videos again as a supplement to the course. It is not easy, to be honest. These days I am learning linear regression, and of almost all the time, I am recalling math knowledge from my high school. Only in this moment I feel fortunate that I went to high school in China, because I find that I actually have a fairly great math foundation.  
+
+In recent weeks, my schedule is flexible but workload is heavy. Most of it came from myself. My mindset has shifted dramatically over the past year in the U.S., in a positive way. I become very ambitious because I feel comfortable here. I found that I am much more powerful when I am under great pressure, which is a gift. I started to be eager to be the top one, to be the perfect one, and I am confident that I can do it. Now as a doctorate student, I don't only expect myself to be qualified. I expect myself to be distinguished, and to be an impactful scholar in the future. To achieve this, I use reverse thinking. The standards and requirements for an impactful scholar are my standards and requirements. Of course I can't achieve them over night, but I can do it step-by-step according to goals, time and personal capabilities. That's why I put a lot of pressure on myself and ask my advisors to challenge me as hard as they can. I AM NOT AFRAID OF STRESS, I AM AFTER STRESS. 
+
+At this stage, data skills are the resource of my stress. I am a little bit behind others, but it's ok, because I am a quick learner and life is a marathon. The most horrible thing for me is not knowing my weakeness instead of knowing I'm not good enough. 
