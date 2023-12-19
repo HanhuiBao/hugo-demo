@@ -1,6 +1,6 @@
 ---
 title: "How I Travel"
-date: 2023-12-02
+date: 2023-12-19
 slug: travel
 draft: false
 tags: [ "2023Dec", "random"]
