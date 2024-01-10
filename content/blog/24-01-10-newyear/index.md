@@ -1,0 +1,20 @@
+---
+title: "New Year Jottings"
+date: 2024-01-10
+slug: newyear
+draft: false
+tags: [ "2024", "random"]
+---
+Welcome to 2024! 2024 means a lot to me, in different ways. One is because it is my "本命年", which is my animal year in Chinese zodiac. I can't believe I'm 24 years old. I thought I would be mature, success, young, and beautiful when 24, but here I am, still childish, frenetic sometime, and messy most of the time. But generally I'm satisfied with myself now. My family are healthy, my school life has been awesome, I am still close with my friends, I still read and play around with music. Most of all, I never love this world this much. 
+
+2023 I finished my master from Johns Hopkins, where I was advised by one of the most prestigous professors in education field, got the opportunities to interact with most brilliant minds, and had a couple of great friends who I still talk with a lot. It was the first time I stepped outside my own country and dived into a completely new education system. This adventure was perfect, and I felt grateful for everything happened. 
+
+For several reasons I decided to apply for PhD programs. I completed my master in one year and prepare for PhD applications at the same time. Until today I still did not know how I survived, but I admire and thank myself. I constantly pushed the limits of what I can do, and it is simple. I always said 'yes' to opportunities so that I have to do it no matter what. I have to point out that it is dangerous. I actually didn't know if I could do it right either when I said yes, but I forced myself to calm down and finish. The down side is that I kinda forgot how to completely relax. I don't have a problem with it because I know what I want and this is the road I must take. PhD life is better than I thought. The first semester went pretty well in all ways. I am so blessed and try to return the favor to the world. 
+
+I picked up the reading habit again when 2021. I have been a book bug since young, but got a little bit sidetracked at the beginning of college. Glad I'm back on time. I read over 60 books in 2023, which I was satisified and a little bit suprirsed to be quite honest. Literature, history, philosophy, and sociology are some topics that I read a lot. Also I was exposed to feminism more in the past year, which inspired me to reflect who I am as a woman and how I can support other women. Some people asked me "how you memorize what's in the book", and I said "I can't, I forgot most of them". Reading is like eating, you won't not be taller after one meal, but when you look back after a while, you realize how much you've grown. I'm planning to make a booklist in the near future, to note the path I've walked through. 
+
+I got a guitar after I moved to Knoxville. Even though I love my friends so much, lonliness still matters. Music heals me all the time, no matter I'm listenning or playing. Playlist is private for me because it reflects my inner world somehow, and it's not as cheerful as I usually look like when I'm with people. Also everyone has different music preference, my taste probably won't work for others. I'm back to piano as well at the end of last semester. I should have done it earlier, but I didn't know that the practice rooms are not only open for students in the college of music before. Classical music brings me back to my childhood and even when the piece was composed. I need music to stay chill. Music is my drug. I miss my flute as well, maybe I'll pick it up soon. Who knows. 
+
+I'm at home for the whole winter break. Getting together with old friends feels so good. We laughed, hugged, and shared. Old time never walks away. But I miss my Knoxville friends and colleagues as well. I am spoiled so much by the world, what can I do to become someone who worths so much love?
+
+I guess the only thing I can do is to just keep going. Things will work out at the end, be patient. 
