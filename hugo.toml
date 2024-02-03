@@ -33,6 +33,10 @@ imageHeight = 250
   pageRef = '/tags'
   weight = 50 
 [[menu.main]]
+  name = 'Book List'
+  pageRef = '/book'
+  weight = 60 
+[[menu.main]]
   name = 'CV'
   pageRef = '/CV'
   weight = 30
